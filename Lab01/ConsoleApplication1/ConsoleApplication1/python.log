@@ -1,0 +1,10 @@
+
+
+/------------------------------------------------------------------------------------------\
+WorldOfTanks 0.9.22.0 (compiled at 11:34:21 Jan 29 2018) starting on Tue Feb 13 22:57:19 2018
+
+2018-02-13 22:57:19.056: INFO: [Config] Command line: D:/World_of_Tanks/WorldOfTanks.exe
+2018-02-13 22:57:21.200: INFO: [Config] Default encoding set to utf-8
+2018-02-13 22:57:21.261: INFO: [PY_DEBUG] Release Client - Content Type: sd
+
+2018-02-13 22:57:21.261: INFO: [PY_DEBUG] Checking ./mods/0.9.22.0: mods not found
