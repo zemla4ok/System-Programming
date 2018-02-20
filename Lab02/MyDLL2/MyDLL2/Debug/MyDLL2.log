@@ -1,0 +1,3 @@
+﻿.\MyDLL2.def(4): warning LNK4017: оператор MyDLL2.dll не поддерживается на конечной платформе; пропущен
+     Создается библиотека E:\3k2s\SP\OS\Lab02\MyDLL2\Debug\MyDLL2.lib и объект E:\3k2s\SP\OS\Lab02\MyDLL2\Debug\MyDLL2.exp
+  MyDLL2.vcxproj -> E:\3k2s\SP\OS\Lab02\MyDLL2\Debug\MyDLL2.dll

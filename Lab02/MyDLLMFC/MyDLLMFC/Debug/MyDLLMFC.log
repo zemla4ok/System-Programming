@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  MyDLLMFC.cpp
+.\MyDLLMFC.def(4): warning LNK4017: оператор MyDLLMFC.dll не поддерживается на конечной платформе; пропущен
+     Создается библиотека E:\3k2s\SP\OS\Lab02\MyDLLMFC\Debug\MyDLLMFC.lib и объект E:\3k2s\SP\OS\Lab02\MyDLLMFC\Debug\MyDLLMFC.exp
+  MyDLLMFC.vcxproj -> E:\3k2s\SP\OS\Lab02\MyDLLMFC\Debug\MyDLLMFC.dll
