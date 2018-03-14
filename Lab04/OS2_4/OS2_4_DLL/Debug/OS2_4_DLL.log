@@ -1,0 +1,4 @@
+﻿  OS2_4_DLL.cpp
+c:\users\user\source\repos\os2_4\os2_4_dll\os2_4_dll.cpp(36): warning C4101: buf: неиспользованная локальная переменная
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\User\source\repos\OS2_4\Debug\OS2_4_DLL.lib ш юс·хъЄ C:\Users\User\source\repos\OS2_4\Debug\OS2_4_DLL.exp
+  OS2_4_DLL.vcxproj -> C:\Users\User\source\repos\OS2_4\Debug\OS2_4_DLL.dll
