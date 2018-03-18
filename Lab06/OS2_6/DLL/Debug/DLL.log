@@ -2,5 +2,5 @@
   dllmain.cpp
   DLL.cpp
   Создание кода...
-     Создается библиотека C:\Users\User\source\repos\OS2_7\Debug\DLL.lib и объект C:\Users\User\source\repos\OS2_7\Debug\DLL.exp
-  DLL.vcxproj -> C:\Users\User\source\repos\OS2_7\Debug\DLL.dll
+     Создается библиотека E:\3k2s\SP\OS\Lab06\OS2_6\Debug\DLL.lib и объект E:\3k2s\SP\OS\Lab06\OS2_6\Debug\DLL.exp
+  DLL.vcxproj -> E:\3k2s\SP\OS\Lab06\OS2_6\Debug\DLL.dll
